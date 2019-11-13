@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>HexoUseIt</title>
-    <url>/2019/11/13/HexoUseIt/</url>
-    <content><![CDATA[<p>1.文章存放的相对路径：</p>
+    <title>Hexo Work It</title>
+    <url>/2019/11/13/Hexo%20Work%20It/</url>
+    <content><![CDATA[<p>Have a nice day</p>
+<p>Step 1</p>
+<p> 文章存放的相对路径：</p>
 <p>../source/_posts</p>
-<p>2.【命令行】本地重新生成</p>
+<p>Step 2</p>
+<p>【命令行】本地重新生成</p>
 <p> $ hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</p>
-<p>3.【命令行】更新github的io</p>
+<p>Step 3</p>
+<p>【命令行】更新github的io</p>
 <p> $ hexo clean &amp;&amp; hexo g &amp;&amp; hexo deploy</p>
+<p>Congratulation !  !</p>
 ]]></content>
   </entry>
   <entry>
