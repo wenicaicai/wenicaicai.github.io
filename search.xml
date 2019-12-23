@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>AliOSS File Online</title>
+    <url>/2019/12/23/AliOSS%20File%20Online/</url>
+    <content><![CDATA[<p><strong>基础准备</strong></p>
+<ol>
+<li>确定当前开发语言、开发环境（.netFrameWork、.net Core） 详细SDK参考<a href="https://help.aliyun.com/document_detail/52834.html?spm=a2c4g.11186623.6.762.67b563280uYn5B" target="_blank" rel="noopener" title="AliOSS-SDK文档">https://help.aliyun.com/document_detail/52834.html?spm=a2c4g.11186623.6.762.67b563280uYn5B</a></li>
+<li>获取对应的开发ID、密码、组别名称、域名地址，四个基础配置信息</li>
+</ol>
+<p><strong>OSS后台浅试篇 .NET Core版</strong></p>
+<ol>
+<li>下载并安装对应的Nuget包 （aliyun.oss.sdk.core）</li>
+<li>上代码<br>（备注：支持本地文件地址上传、流上传）</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>Git and Github Work it</title>
     <url>/2019/11/22/Git%20and%20Github%20Work%20it/</url>
     <content><![CDATA[<p>###Git 命令行简单实操</p>
