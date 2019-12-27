@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>DeepCopyList</title>
+    <url>/2019/12/27/DeepCopyList/</url>
+    <content><![CDATA[<h3 id="深度复制IEnumberale"><a href="#深度复制IEnumberale" class="headerlink" title="深度复制IEnumberale"></a>深度复制IEnumberale</h3><p>CopyTo<br>new List<T> 赋值均无法顺利进行深度拷贝，值的复制，<br>只是对引用进行复制，其中一个List变化则会引起另外一个变化。</p>
+<p>采取<br>先：JsonConvert.SerializeObject </p>
+<p>后：JsonConvert.DeserializeObject</p>
+<p>进行还原，完成List的深度拷贝。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>AliOSS File Online</title>
     <url>/2019/12/23/AliOSS%20File%20Online/</url>
     <content><![CDATA[<p><strong>基础准备</strong></p>
